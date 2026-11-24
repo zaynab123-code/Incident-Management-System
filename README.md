@@ -1,18 +1,44 @@
-## Getting Started
+# Incident Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
+Brief introduction to your project.
 
-## Folder Structure
+## Technologies Used
+- Java
+- JavaFX
+- SQL Server
+- JDBC
 
-The workspace contains two folders by default, where:
+## Features
+- Citizen incident reporting
+- Admin authentication
+- Incident management
+- Dispute management
+- Fire brigade team management
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Project Architecture
+- Business Layer
+- Data Layer
+- UI Layer
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Application Screenshots
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-## Dependency Management
+### Admin Panel
+![Admin Panel](screenshots/admin.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Incident Reporting
+![Incident Reporting](screenshots/report.png)
+
+## Project Structure
+
+## Installation and Setup
+
+## Database Configuration
+
+## How to Run
+
+## Demo Credentials
+(Only include safe demo/test credentials, never real passwords.)
